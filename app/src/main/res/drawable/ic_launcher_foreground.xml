@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Mysore Palace Dome & Heritage Arch silhouette -->
+    <!-- Base plinth -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M24,76 L84,76 L84,80 L24,80 Z" />
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M27,72 L81,72 L81,76 L27,76 Z" />
+    <!-- Palace lower facade arches -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M29,54 L79,54 L79,72 L29,72 Z" />
+    <!-- Central Arch cutouts -->
+    <path
+        android:fillColor="#150E28"
+        android:pathData="M48,72 L48,60 Q54,54 60,60 L60,72 Z" />
+    <path
+        android:fillColor="#150E28"
+        android:pathData="M34,72 L34,63 Q39,59 44,63 L44,72 Z" />
+    <path
+        android:fillColor="#150E28"
+        android:pathData="M64,72 L64,63 Q69,59 74,63 L74,72 Z" />
+    <!-- Pillars / Balcony band -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M31,52 L77,52 L77,54 L31,54 Z" />
+    <!-- Center Grand Tower & Royal Dome -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M44,40 L64,40 L64,52 L44,52 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M42,40 Q54,26 66,40 Z" />
+    <!-- Center Kalasa / Finial -->
+    <path
+        android:fillColor="#FFF9C4"
+        android:pathData="M53.5,24 L54.5,24 L54.5,28 L53.5,28 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M54,22 L56,25 L52,25 Z" />
+    <!-- Left & Right Minarets / Domes -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M28,45 L36,45 L36,54 L28,54 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M27,45 Q32,36 37,45 Z" />
+    <path
+        android:fillColor="#FFF9C4"
+        android:pathData="M31.5,33 L32.5,33 L32.5,36 L31.5,36 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M72,45 L80,45 L80,54 L72,54 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M71,45 Q76,36 81,45 Z" />
+    <path
+        android:fillColor="#FFF9C4"
+        android:pathData="M75.5,33 L76.5,33 L76.5,36 L75.5,36 Z" />
+    <!-- Royal Mysore Illumination Sparkles -->
+    <path
+        android:fillColor="#FFFDE7"
+        android:pathData="M54,32 L55,34 L57,34 L55.5,35.5 L56,37.5 L54,36.2 L52,37.5 L52.5,35.5 L51,34 L53,34 Z" />
+</vector>

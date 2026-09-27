@@ -1,0 +1,6 @@
+{
+  "name": "Mysore Explorer",
+  "description": "Discover the Royal Soul of Mysore with interactive 3D landmark views, maps, itinerary planner, iconic food guides, and heritage experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
